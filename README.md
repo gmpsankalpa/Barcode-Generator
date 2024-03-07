@@ -19,7 +19,8 @@ This web application allows you to generate barcodes by entering data. It provid
 - Responsive design
 
 ## Demo
-    You can try the live demo [here](ffff).
+You can try the live demo [here](https://gmpsankalpa.github.io/Barcode-Generator/).
+
 ## Getting Started
 
 ### Prerequisites
