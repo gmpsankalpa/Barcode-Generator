@@ -29,7 +29,7 @@ You can try the live demo [here](https://gmpsankalpa.github.io/Barcode-Generator
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/barcode-generator.git
+   git clone https://github.com/gmpsankalpa/barcode-generator.git
 
 2. Navigate to the project directory:
    ```bash
