@@ -55,6 +55,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+<p align="center">
+<b>
+  Repo Details 🤙
+</b>
+</p>
+
 <div align="center">
 
    ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/Barcode-Generator?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
@@ -62,4 +68,15 @@ This project is licensed under the [MIT License](LICENSE).
    ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/Barcode-Generator?&labelColor=black&color=f7b731&style=for-the-badge)
    ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/Barcode-Generator?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
+</div>
+
+<p align="center">
+<b>
+  Deploy status badge 🤖
+</b>
+</p>  
+
+<div align="center">
+   
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/f8c54f31-10f6-42a4-80e6-342090a3c60e/deploy-status)](https://app.netlify.com/sites/gmp-barcode-generator/deploys)
 </div>
